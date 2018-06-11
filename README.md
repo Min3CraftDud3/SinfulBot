@@ -1,0 +1,2 @@
+# SinfulBot
+Discord bot
